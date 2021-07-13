@@ -81,7 +81,7 @@ main{
     color: rgb(189, 42, 42);
 }
 .overview {
-    background-color: transparent;
+    background-color: #eee;
     padding: 2rem;
     position: absolute; 
     max-height: 100%;
